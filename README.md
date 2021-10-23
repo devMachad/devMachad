@@ -32,3 +32,4 @@
 
 
 ![devMachad's Status](https://github-readme-stats.vercel.app/api?username=devMachad&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMachad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
